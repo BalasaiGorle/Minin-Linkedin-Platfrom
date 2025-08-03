@@ -85,23 +85,6 @@ Follow these instructions to set up and run the project locally.
 
 4.  Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to see the application in action.
 
----
-
-## 🤝 Contribution
-
-Contributions are welcome! If you have suggestions or want to improve the code, feel free to:
-
-1.  Fork the repository.
-2.  Create a new branch (`git checkout -b feature/your-feature-name`).
-3.  Make your changes.
-4.  Commit your changes (`git commit -m 'Add some feature'`).
-5.  Push to the branch (`git push origin feature/your-feature-name`).
-6.  Open a Pull Request.
-
-Please open an issue first to discuss what you would like to change.
-
----
-
 ## 📧 Contact
 
 Balasai – [balasaigorle@gmail.com]
