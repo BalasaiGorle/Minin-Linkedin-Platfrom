@@ -10,11 +10,7 @@ A mini LinkedIn-like community platform built with Next.js and MongoDB. This app
 
 ---
 
-*(Optional: Add a screenshot of your application here for a better first impression)*
 
-`![App Screenshot](link-to-your-screenshot.png)`
-
----
 
 ## 🚀 Features
 
