@@ -110,4 +110,3 @@ Please open an issue first to discuss what you would like to change.
 
 Balasai – [balasaigorle@gmail.com]
 
-Project Link: [https://github.com/CodingRamBharose/mini-linkedin](https://github.com/CodingRamBharose/mini-linkedin)
